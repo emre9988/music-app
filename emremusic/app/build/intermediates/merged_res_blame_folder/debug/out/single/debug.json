@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable-xxhdpi_moonbtn.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-pngs-24:\\drawable-xxhdpi\\moonbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\layout_recycler_item.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\layout\\recycler_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable-v24_music_icon.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\drawable-v24\\music_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable-ldpi_moonbtn.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-pngs-24:\\drawable-ldpi\\moonbtn.png"
+    },
+    {
+        "merged": "com.example.emremusic.app-merged_res-29:/drawable-xhdpi_untitled__1_.png.flat",
+        "source": "com.example.emremusic.app-pngs-24:/drawable-xhdpi/untitled__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable-mdpi_moonbtn.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-pngs-24:\\drawable-mdpi\\moonbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable-hdpi_moonbtn.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-pngs-24:\\drawable-hdpi\\moonbtn.png"
+    },
+    {
+        "merged": "com.example.emremusic.app-merged_res-29:/drawable-ldpi_untitled__1_.png.flat",
+        "source": "com.example.emremusic.app-pngs-24:/drawable-ldpi/untitled__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\layout_activity_music_player.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\layout\\activity_music_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable_ic_baseline_play_circle_24.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\drawable\\ic_baseline_play_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable-anydpi-v24_moonbtn.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-pngs-24:\\drawable-anydpi-v24\\moonbtn.xml"
+    },
+    {
+        "merged": "com.example.emremusic.app-merged_res-29:/drawable-mdpi_untitled__1_.png.flat",
+        "source": "com.example.emremusic.app-pngs-24:/drawable-mdpi/untitled__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable-xxxhdpi_moonbtn.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-pngs-24:\\drawable-xxxhdpi\\moonbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable-v24_music_icon_big.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\drawable-v24\\music_icon_big.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable_ic_baseline_pause_circle_24.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\drawable\\ic_baseline_pause_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable_ic_baseline_skip_previous_24.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\drawable\\ic_baseline_skip_previous_24.xml"
+    },
+    {
+        "merged": "com.example.emremusic.app-merged_res-29:/drawable-anydpi-v24_untitled__1_.xml.flat",
+        "source": "com.example.emremusic.app-pngs-24:/drawable-anydpi-v24/untitled__1_.xml"
+    },
+    {
+        "merged": "com.example.emremusic.app-merged_res-29:/drawable-hdpi_untitled__1_.png.flat",
+        "source": "com.example.emremusic.app-pngs-24:/drawable-hdpi/untitled__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable_ic_baseline_skip_next_24.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\drawable\\ic_baseline_skip_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.emremusic.app-merged_res-29:/drawable-xxhdpi_untitled__1_.png.flat",
+        "source": "com.example.emremusic.app-pngs-24:/drawable-xxhdpi/untitled__1_.png"
+    },
+    {
+        "merged": "com.example.emremusic.app-merged_res-29:/layout_activity_music_player.xml.flat",
+        "source": "com.example.emremusic.app-main-31:/layout/activity_music_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable-xhdpi_moonbtn.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-pngs-24:\\drawable-xhdpi\\moonbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emreg\\.gradle\\daemon\\7.4\\com.example.emremusic.app-debug-30:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.emremusic.app-merged_res-29:/drawable-xxxhdpi_untitled__1_.png.flat",
+        "source": "com.example.emremusic.app-pngs-24:/drawable-xxxhdpi/untitled__1_.png"
+    }
+]
